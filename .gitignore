@@ -4,4 +4,5 @@ public/fonts
 public/images
 public/scripts/bundle.js
 public/styles/bundle.*
+public/service-worker.js
 config.json
